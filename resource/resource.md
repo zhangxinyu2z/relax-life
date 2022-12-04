@@ -21,7 +21,7 @@
 
 # Wallpaper
 
-二次元：
+## 二次元：
 
 | NAME | URL |
 | ---- | ---- |
@@ -32,7 +32,7 @@
 | 次元小镇 | https://dimtown.com/ |
 | Anime-pictures | https://anime-pictures.net/ |
 
-综合类型壁纸:
+## 综合类型壁纸:
 
 | NAME | URL |
 | ---- | ---- |
@@ -45,7 +45,7 @@
 | 必应壁纸 | https://bing.ioliu.cn/ |
 | simpledesktops | http://simpledesktops.com/ |
 
-某一领域壁纸
+## 某一领域壁纸
 
 | NAME | URL |
 | ---- | ---- |
@@ -54,3 +54,35 @@
 | ESO（天文宇宙） | https://www.eso.org/public/images/ |
 | Simpledesktops（极简风格） | http://simpledesktops.com/ |
 | 天空之城（航拍） | https://www.skypixel.com/ |
+
+## 头像
+
+faceyourmanga
+
+BitFace 
+
+Github [GitHub Octodex](https://octodex.github.com/)
+
+[Generate Avatar (generate-avatar.vercel.app)](https://generate-avatar.vercel.app/?str=b922923d-6f0a-4e3e-82f2-3f026ac172b1) 开源地址：[loweisz/generate-avatar: Generate your 100% fingerprinted example avatar from id, email, username etc. (github.com)](https://github.com/loweisz/generate-avatar)
+
+[ Q 版头像生成器](https://zhuanlan.zhihu.com/p/450978590)     
+
+[Avataaars Generator ](https://getavataaars.com/?avatarStyle=Circle&topType=LongHairBigHair)
+
+# soft
+
+windows系统：东莞三杰 lstb2016  
+
+# 动漫
+
+甜甜私房猫
+
+# 电影
+
+都铎王朝（娜塔莉·多默尔）
+
+# coding
+
+反编译工具
+Luyten	https://github.com/deathmarine/Luyten
+Jadx	https://github.com/skylot/jadx
