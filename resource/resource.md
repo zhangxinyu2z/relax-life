@@ -107,6 +107,8 @@ Jadx	https://github.com/skylot/jadx
 | [阿雷科技](https://aleikeji.com/)          |      |
 | [数字生活指南](https://nav.guidebook.top/) |      |
 | [书签地球](https://www.bookmarkearth.com/) | 书签聚合平台 |
+| [lks网站工具推荐](https://lks.cc/) | |
+
 
 ## 技术
 
@@ -161,6 +163,13 @@ Jadx	https://github.com/skylot/jadx
 # AI
 
 ## 本体
+
+## 推荐
+| 网址 | 说明 |
+| ---- | ---- | 
+| [AI研究所])(http://www.aiyjs.com/) | AI工具整合平台,来自b站[up](https://space.bilibili.com/501394812),[home](https://www.jayhome.cc/) |
+| [Hayo](https://www.hayo.com/) | |
+
 
 
 
