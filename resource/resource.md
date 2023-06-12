@@ -106,6 +106,7 @@ Jadx	https://github.com/skylot/jadx
 | [爱达杂货铺](https://adzhp.net/#term-23)   |      |
 | [阿雷科技](https://aleikeji.com/)          |      |
 | [数字生活指南](https://nav.guidebook.top/) |      |
+| [书签地球](https://www.bookmarkearth.com/) | 书签聚合平台 |
 
 ## 技术
 
@@ -146,6 +147,9 @@ Jadx	https://github.com/skylot/jadx
 |[小众软件](https://www.appinn.com/)|||
 |[softonic](https://en.softonic.com/)|下载国外app||
 |[share](https://share.shuoaini.xyz/)|软件集（夸克网盘）||
+|[思维导图](https://www.edrawsoft.cn/mindmaster/wb-zhihu.html) | 可以在线 | |
+|[文件传输](https://snapdrop.net/) | 在线| |
+|[电子书库](https://clibrary.cn/) | zlibrary的替代 | |
 
 ## 影视
 
