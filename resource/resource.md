@@ -76,6 +76,12 @@ windows系统：东莞三杰 lstb2016
 | [Cencrack在线工具包](http://cencrack.com/?post=18) | 装机必备 | |
 | [搞机助手](https://lsdy.top/) |  | |
 | [小恐龙公文排版助手](https://xkonglong.com/) | word工具 | |
+| [7z]() | 解压缩 | |
+| [foorbar2000] | 音乐播放器 | |
+| [potplayer] | 视频播放器 | |
+| [Watt Toolkit](https://steampp.net/) | stream和github加速 | |
+| [aria2](http://aria2.scrongyao.com/) | 下载管理 | |
+
 
 
 
@@ -152,6 +158,13 @@ Jadx	https://github.com/skylot/jadx
 |[思维导图](https://www.edrawsoft.cn/mindmaster/wb-zhihu.html) | 可以在线 | |
 |[文件传输](https://snapdrop.net/) | 在线| |
 |[电子书库](https://clibrary.cn/) | zlibrary的替代 | |
+|[软仓](https://www.ruancang.net/#/?page=0&id=0&q=) | | |
+|[惊鸿一面](https://www.kn21.xyz/) | | |
+|[大眼仔](http://dayanzai.me/)| | |
+|[filehippo](https://filehippo.com/zh/)| | |
+[[趣软铺](http://quruanpu.ysepan.com/) | | |
+
+
 
 ## 影视
 
@@ -164,11 +177,21 @@ Jadx	https://github.com/skylot/jadx
 
 ## 本体
 
-## 推荐
+## AI导航
 | 网址 | 说明 |
 | ---- | ---- | 
 | [AI研究所])(http://www.aiyjs.com/) | AI工具整合平台,来自b站[up](https://space.bilibili.com/501394812),[home](https://www.jayhome.cc/) |
 | [Hayo](https://www.hayo.com/) | |
+| [futurepedia.io](https://www.futurepedia.io/)| |
+| [ainav](http://www.ainav.cn/) | |
+
+
+## 推荐
+| 工具 | 说明 |
+| ---- | ---- |
+| [dall.e2](https://openai.com/dall-e-2) | 绘画 |
+| [beautiful ai](https://www.beautiful.ai/slide-templates) | ppt |
+| [chatGpt镜像](https://www.feijix.com/n/y0BnXI) | 免费使用，wx：趣软铺 |
 
 
 
