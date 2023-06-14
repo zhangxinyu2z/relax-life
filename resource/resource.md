@@ -192,6 +192,8 @@ Jadx	https://github.com/skylot/jadx
 | [dall.e2](https://openai.com/dall-e-2) | 绘画 |
 | [beautiful ai](https://www.beautiful.ai/slide-templates) | ppt |
 | [chatGpt镜像](https://www.feijix.com/n/y0BnXI) | 免费使用，wx：趣软铺 |
+| [AI助手](https://www.cleandx.xyz/) | b站 Ai万能助手官方号 |
+| [小鲨鱼](https://nsvip.nickbears.cn/) | 每日20次免费 | 
 
 
 
@@ -215,3 +217,5 @@ Jadx	https://github.com/skylot/jadx
 # 接触使用
 
 [aibote.net](http://www.aibote.net/introduce.html)		rpa办公
+
+爱玩机工具箱    炼妖壶     手机内置软件多开
