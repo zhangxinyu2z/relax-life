@@ -82,6 +82,18 @@ windows系统：东莞三杰 lstb2016
 | [Watt Toolkit](https://steampp.net/) | stream和github加速 | |
 | [aria2](http://aria2.scrongyao.com/) | 下载管理 | |
 
+## 微软
+
+store下载的安装文件： %temp%
+
+utools deskpin
+
+| NAME | DESC | 
+| ---- | ---- |
+| POWER Toys | github(或store) |
+| Translucent TB | [透明失效](https://www.bilibili.com/video/BV1To4y1u78P/?vd_source=9a3f66001b8096e7d6d7b1192d177eff) |
+| QuickLook | | 
+
 
 
 
@@ -164,6 +176,11 @@ Jadx	https://github.com/skylot/jadx
 |[filehippo](https://filehippo.com/zh/)| | |
 [[趣软铺](http://quruanpu.ysepan.com/) | | |
 
+## 加速器
+
+| 网址 | 说明 |
+| ---- | ---- | 
+| [tm](https://www.tmjiasuqi.com/html/about/) | 免费 |
 
 
 ## 影视
