@@ -55,6 +55,8 @@
 | [故宫壁纸](https://www.dpm.org.cn/lights/royal.html) | 故宫 |
 | [ESO](https://www.eso.org/public/images/) | 天文宇宙 |
 | [天空之城](https://www.skypixel.com/) | 航拍 |
+| [Unsplash](https://unsplash.com/) | 支持商用和免费下载 |
+| [pixabay](https://pixabay.com/zh/) | 支持商用和免费下载 |
 
 ## 头像
 
@@ -64,6 +66,12 @@
 |  [GitHub Octodex](https://octodex.github.com/) | github |
 |[generate avatar](https://github.com/loweisz/generate-avatar) | 随机生成 |
 
+## 插画
+
+| 网站                                | 说明         |
+| ----------------------------------- | ------------ |
+| [麦田艺术](https://www.nbfox.com/) |  |
+| [芝加哥艺术博物馆](https://www.artic.edu/collection?is_public_domain=1) | |
 
 
 # 在用软件
@@ -142,6 +150,14 @@ Jadx	https://github.com/skylot/jadx
 | 网址                              | 说明 |
 | --------------------------------- | ---- |
 | [今日资讯](https://tophub.today/) | 新闻 |
+
+## 地图
+
+| 网址                              | 说明 |
+| --------------------------------- | ---- |
+| [标准地图服务系统](http://bzdt.ch.mnr.gov.cn/) |  |
+| [大卫拉姆齐地图图书馆](https://www.davidrumsey.com/) |  |
+
 
 
 
